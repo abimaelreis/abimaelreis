@@ -1,4 +1,3 @@
-## Olá eu sou Abimael, o melhor desenvolver que você vai conhecer!
 <div align="center">
   <a href="https://github.com/abimaelreis">
   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=abimaelreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
